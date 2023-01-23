@@ -5,7 +5,8 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 public class 다리를지나는트럭 {
-
+    
+    // 뭐지
     // Queue를 참조해서 만들어보고 있음
     // https://s205203.tistory.com/31
     // 위에 여기 참조해서 만들어보았습니다.
